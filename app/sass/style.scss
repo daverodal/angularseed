@@ -1,3 +1,9 @@
+@import "colors";
+@import "fonts";
+
+body{
+  color:$prettierColor;
+}
 /* app css stylesheet */
 
 .menu {
